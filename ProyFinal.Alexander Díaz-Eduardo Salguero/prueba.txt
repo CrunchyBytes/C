@@ -1,0 +1,17 @@
+
+
+1	Cobre		1	-OCUPADO-	 1 	500.00	Eduardo Salguero	2	2	3	2
+
+2	Bronce		0	DISPONIBLE	 3 	750.00	xxxxxxx xxxxxxxx	0	0	0	0
+
+3	Platino		0	DISPONIBLE	 4 	1500.00	xxxxxxx xxxxxxxx	0	0	0	0
+
+4	Rubi		0	DISPONIBLE	 1 	1750.00	xxxxxxx xxxxxxxx	0	0	0	0
+
+5	Esmeralda 	0	DISPONIBLE	 4 	2000.00	xxxxxxx xxxxxxxx	0	0	0	0
+
+6	Diamante	0	DISPONIBLE	 2 	2500.00	xxxxxxx xxxxxxxx	0	0	0	0
+
+7	Plata		0	DISPONIBLE	 2 	1000.00	xxxxxxx xxxxxxxx	0	0	0	0
+
+8	Oro		0	DISPONIBLE	 3 	1250.00	xxxxxxx xxxxxxxx	0	0	0	0

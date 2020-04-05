@@ -1,0 +1,6 @@
+13	Alonso Ramirez	alonso.ramirez@yahoo.com
+14	Carlos Leon	carlos.leon@hotmail.com
+23	David Baez	dbaeziec@yahoo.com
+21	Diego Rosas	diego@yahoo.com
+18	Juan Fernandez	juan.fernandez@udlap.mx
+12	Pedro Lopez	pedro.lopez@udlap.mx
